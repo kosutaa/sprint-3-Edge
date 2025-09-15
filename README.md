@@ -120,6 +120,3 @@ Desenvolvido por:
 **[Guilherme Ruiz Costa - RM: 563236]**.
 **[João Batista Lima Neto - RM: 563426]**.
 **[Júlio César Augusto Vieira - RM: 563366]**.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
