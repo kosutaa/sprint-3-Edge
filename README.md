@@ -29,7 +29,7 @@
 
 ---
 
-##  проекта Sobre o Projeto
+## ✉️ Sobre o Projeto
 
 **Passa a Bola** é uma plataforma web dedicada a centralizar informações e fomentar a comunidade em torno do futebol feminino. Inspirado em hubs de e-sports como `vlr.gg`, o projeto vai além dos placares, buscando criar um espaço de engajamento com notícias, perfis de jogadoras e um sistema de posts onde a comunidade pode discutir e interagir.
 
@@ -114,15 +114,13 @@ O projeto é organizado de forma modular para facilitar a manutenção e escalab
 
 ---
 
-## 📝 Licença
+## 👨‍💻 Autores
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️ por **[Seu Nome Aqui]**.
+Desenvolvido por:
+**[Guilherme Moura Gama - RM: 562162]**,
+**[Guilherme Ruiz Costa - RM: 563236]**,
+**[João Batista Lima Neto - RM: 563426]**,
+**[Júlio César Augusto Vieira - RM: 563366]**.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
