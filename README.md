@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/3CIbVFW.png" alt="Preview da homepage do projeto Passa a Bola" width="800"/>
+  <img src="https://i.imgur.com/noW4CBJ.png" alt="Preview da homepage do projeto Passa a Bola" width="800"/>
 </p>
 
 <p align="center">
