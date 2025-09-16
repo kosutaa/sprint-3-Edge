@@ -113,7 +113,7 @@ O projeto é organizado de forma modular para facilitar a manutenção e escalab
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Desenvolvido por:
 **[Guilherme Moura Gama - RM: 562162]**.
